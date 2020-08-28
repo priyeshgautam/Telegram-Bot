@@ -1,0 +1,17 @@
+{
+  "name": "priyesh_bot",
+  "version": "1.0.0",
+  "description": "This is a bot",
+  "main": "index.js",
+"scripts": {
+  "start": "micro-bot"
+},
+  "keywords": [],
+  "author": "priyesh gautam",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "micro-bot": "^2.5.3",
+    "telegraf": "^3.38.0"
+  }
+}

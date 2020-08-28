@@ -1,0 +1,21 @@
+		Telegram bot using node.js
+https://www.npmjs.com/package/telegraf	npm install telegraf --save
+https://www.npmjs.com/package/axios		npm install axios --save
+
+		API used
+https://api.chucknorris.io/jokes/random
+http://yerkee.com//api/fortune
+https://github.com/covid19india/api
+
+		utility used 
+https://www.npmjs.com/package/nodemon	npm install -g nodemon
+micro-bot					npm install micro-bot --save
+
+		For deployment
+heroku					hosting
+heroku cli
+git 			heroku cli required	
+		Commands
+npm init -y       		initialize node js app shows all the meta data of your app
+node app.js		run main file
+nodemon app.js	
